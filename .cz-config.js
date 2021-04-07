@@ -45,7 +45,8 @@ module.exports = {
     { name: '模块01' },
     { name: '模块02' },
     { name: '模块03' },
-    { name: '模块04' }
+    { name: '模块04' },
+    { name: '模块05' }
   ],
 
   messages: {
