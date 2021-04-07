@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/xiaoYown/changelog-eg/compare/v1.1.2...v1.2.0) (2021-04-07)
+
+
+### Features
+
+* **模块01:** 01 模块新增功能 03 ([6ac875a](https://github.com/xiaoYown/changelog-eg/commit/6ac875a15ee9b459427613d7d70a4762e4137f44))
+
 ### [1.1.2](https://gitee.com/xiaoYown/changelog_use/compare/v1.1.0...v1.1.2) (2021-04-07)
 
 
