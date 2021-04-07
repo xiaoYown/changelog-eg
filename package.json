@@ -1,0 +1,33 @@
+{
+  "name": "changelog_0",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "./node_modules/cz-customizable/standalone.js",
+    "release": "npx standard-version",
+    "release:first": "npx standard-version --first-release",
+    "release:beta": "npx standard-version -p beta",
+    "release:alpha": "npx standard-version -p alpha",
+    "release:patch": "npx standard-version -r patch",
+    "release:minor": "npx standard-version -r minor",
+    "release:major": "npx standard-version -r major"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:xiaoYown/changelog_use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "commitlint-config-cz": "^0.13.2",
+    "cz-customizable": "^6.3.0"
+  }
+}
