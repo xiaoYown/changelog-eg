@@ -1,6 +1,6 @@
 {
   "name": "changelog_0",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "release:alpha": "npx standard-version -p alpha",
     "release:patch": "npx standard-version -r patch",
     "release:minor": "npx standard-version -r minor",
-    "release:major": "npx standard-version -r major"
+    "release:major": "npx standard-version -r major",
+    "release:v": "npx standard-version -r"
   },
   "config": {
     "commitizen": {
