@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/xiaoYown/changelog-eg/compare/v1.4.1...v1.5.0) (2021-04-28)
+
+
+### Features
+
+* link ([5404332](https://github.com/xiaoYown/changelog-eg/commit/5404332b7012be68c81ea76886f5f3b357e53fd6))
+
 ### [1.4.1](https://github.com/xiaoYown/changelog-eg/compare/v1.4.0...v1.4.1) (2021-04-12)
 
 
