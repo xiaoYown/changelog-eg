@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0-beta.0](https://github.com/xiaoYown/changelog-eg/compare/v1.5.0...v1.6.0-beta.0) (2021-05-11)
+
+
+### Features
+
+* **模块05:** feat 02 ([61994ba](https://github.com/xiaoYown/changelog-eg/commit/61994ba4d557e204b460a9803681d8d1c3a996aa))
+
 ## [1.5.0](https://github.com/xiaoYown/changelog-eg/compare/v1.4.1...v1.5.0) (2021-04-28)
 
 
